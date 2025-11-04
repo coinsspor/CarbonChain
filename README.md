@@ -420,7 +420,7 @@ This project is part of the Moca Network ecosystem. See `LICENSE` for more infor
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/carbonchain](https://github.com/yourusername/carbonchain)
+Project Link: [https://github.com/coinsspor/CarbonChain/](https://github.com/coinsspor/CarbonChain/)
 
 Live Demo: [https://carbonchain.coinsspor.com/](https://carbonchain.coinsspor.com/)
 
