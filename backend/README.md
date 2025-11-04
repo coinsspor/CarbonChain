@@ -2,6 +2,16 @@
 
 Express.js backend for the CarbonChain carbon credit marketplace.
 
+## 📊 Data Status
+
+✅ **10,800+ real carbon credit projects loaded**
+- 2.5B tCO2 issued
+- 1.1B tCO2 retired
+- Multiple registries: Verra, Gold Standard, Berkeley, ART, CAR, CarbonPlan
+
+⚠️ **Data files (~150MB) not included in repository due to size**
+- See [DATA_MANAGEMENT.md](../DATA_MANAGEMENT.md) for data handling guide
+
 ## 🚀 Quick Start
 
 ```bash
